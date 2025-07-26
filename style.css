@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fffaf0;
+  color: #333;
+}
+
+header {
+  background: #8B0000;
+  color: white;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+section {
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+#hero {
+  background: url('images/restaurant.jpg') no-repeat center center/cover;
+  color: brown
+  text-align: center;
+  padding: 5rem 2rem;
+}
+
+.menu-item {
+  background: #fceabb;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+}
+
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
